@@ -12,7 +12,7 @@ This data science project focuses on the development of a comprehensive system f
 - **Version Control: GitHub**
 - **Project Management: Notion , Whimsical**
 
-### **Application ** ###
+### **Application ** 
 - **Amazon** - Personalised product recommendations based on purchase history.
 - **Walmart** - Optimizing product placements and cross-selling.
 - **Netflix** - Movie and TV show recommendations based on viewing history.
