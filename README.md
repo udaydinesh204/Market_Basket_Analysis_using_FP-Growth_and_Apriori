@@ -11,3 +11,10 @@ This data science project focuses on the development of a comprehensive system f
 - **Machine Learning:** FP growth , Apriori , MLxtend and necessary libraries
 - **Version Control: GitHub**
 - **Project Management: Notion , Whimsical**
+
+### **Application ** ###
+- **Amazon** - Personalised product recommendations based on purchase history.
+- **Walmart** - Optimizing product placements and cross-selling.
+- **Netflix** - Movie and TV show recommendations based on viewing history.
+- **Tesco** - Understanding customer behaviour for tailored promotions.
+- **Alibaba** - Providing personalized product recommendations.
