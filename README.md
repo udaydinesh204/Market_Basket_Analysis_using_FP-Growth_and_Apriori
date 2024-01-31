@@ -13,14 +13,14 @@ This data science project focuses on the development of a comprehensive system f
 - **Project Management: Notion , Whimsical**
 
 ### Project Impact:
-**Optimized Business Strategies:**
-Impact: Market basket analysis insights empower the online grocery store to optimize cross-selling strategies, product placements, and inventory management.
-**Enhanced Customer Experience:**
-Impact: Personalized recommendations based on association rules contribute to an improved shopping experience, increasing customer satisfaction.
-**Increased Revenue:**
-Impact: By strategically leveraging market basket analysis results, the project aims to contribute to increased sales and revenue for the online grocery store.
-**Data-Driven Decision Making:**
-Impact: The project promotes a data-driven approach, enabling the online grocery store to make informed decisions and stay competitive in the market.
+**Optimized Business Strategies:**  
+- Impact: Market basket analysis insights empower the online grocery store to optimize cross-selling strategies, product placements, and inventory management.  
+**Enhanced Customer Experience:**  
+- Impact: Personalized recommendations based on association rules contribute to an improved shopping experience, increasing customer satisfaction.  
+**Increased Revenue:**  
+- Impact: By strategically leveraging market basket analysis results, the project aims to contribute to increased sales and revenue for the online grocery store.  
+**Data-Driven Decision Making:**  
+- Impact: The project promotes a data-driven approach, enabling the online grocery store to make informed decisions and stay competitive in the market.  
 
 ###  **Applications:**
 - **Amazon** - Personalised product recommendations based on purchase history.
