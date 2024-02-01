@@ -20,7 +20,10 @@ Impact: Personalized recommendations based on association rules contribute to an
 - **Increased Revenue:**  
 Impact: By strategically leveraging market basket analysis results, the project aims to contribute to increased sales and revenue for the online grocery store.  
 - **Data-Driven Decision Making:**  
-Impact: The project promotes a data-driven approach, enabling the online grocery store to make informed decisions and stay competitive in the market.  
+Impact: The project promotes a data-driven approach, enabling the online grocery store to make informed decisions and stay competitive in the market.
+
+### To know more about
+https://www.javatpoint.com/market-basket-analysis-in-data-mining#:~:text=Examples%20of%20Market%20Basket%20Analysis&text=Retail%3A%20The%20most%20well%2Dknown,case%20study%20is%20Amazon.com
 
 ###  **Applications:**
 - **Amazon** - Personalised product recommendations based on purchase history.
