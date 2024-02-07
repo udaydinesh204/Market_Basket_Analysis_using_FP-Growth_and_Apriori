@@ -12,6 +12,17 @@ This data science project focuses on the development of a comprehensive system f
 - **Version Control: GitHub**
 - **Project Management: Notion , Whimsical**
 
+  ### Trends:
+ - **Personalization:**
+ - Trend: Growing demand for personalized shopping experiences.
+ - Impact: Market basket analysis enables personalized recommendations, aligning with the trend.
+ - **Real-time Analytics:**
+ - Trend: Shift towards real-time data analysis for immediate insights.
+ - Impact: The project's focus on real-time data fetching aligns with this trend, providing timely results.
+ - **Integration with E-commerce:**
+ - Trend: Increased integration of data analytics in e-commerce platforms.
+ - Impact: The project's integration with the online grocery store aligns with this trend, contributing to enhanced analytics capabilities
+
 ### Project Impact:
 - **Optimized Business Strategies:**  
 Impact: Market basket analysis insights empower the online grocery store to optimize cross-selling strategies, product placements, and inventory management.
