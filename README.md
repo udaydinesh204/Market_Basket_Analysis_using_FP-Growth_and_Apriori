@@ -5,9 +5,6 @@ This data science project focuses on the development of a comprehensive system f
 ![Market Basket Analysis](https://3.bp.blogspot.com/-i_KRZLp_mc4/VhVaP68aeuI/AAAAAAAAAVc/JyJEBUykrjM/s1600/cover%2Bphoto%2B-%2Bexample.jpg)
 ### **Tech Stack for Project:**
 
-- **Backend:** Django (Python)
-- **Database:** PostgreSQL (SQL) or MongoDB (NoSQL)
-- **Frontend:** HTML, CSS, JS, React or Angular
 - **Cloud Services:** AWS or Heroku or Azure
 - **Machine Learning:** FP growth , Apriori , MLxtend and necessary libraries
 - **Version Control: GitHub**
