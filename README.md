@@ -1,14 +1,20 @@
 # Market Basket Analysis on Grocery Store
 
 ### Abstract:
-This data science project focuses on the development of a comprehensive system for market basket analysis within the context of an online grocery store. Leveraging advanced association rule learning techniques, specifically the Apriori and FP-growth algorithms implemented with MLxtend, the project aims to uncover intricate patterns in customer purchasing behavior. The primary objective is to optimize the online shopping experience by providing personalized product recommendations, refining cross-selling strategies, and gaining valuable insights into customer preferences. The technology stack for deployment includes Django for the backend, PostgreSQL or MongoDB for the database, and a dynamic frontend using HTML, CSS, and JS, possibly incorporating React or Angular. Cloud services such as AWS, Heroku, or Azure will host the application, ensuring scalability and reliability. The project will utilize GitHub for version control and Notion for project management, fostering efficient collaboration. The anticipated outcomes include an innovative online grocery store empowered by data-driven decision-making, thereby enhancing customer satisfaction and business efficiency. 
+ Market basket analysis is a critical tool in retail and e-commerce as it reveals patterns in customer behavior and purchasing trends. By examining transactional data, market basket analysis uncovers
+ relationships between items commonly bought together, facilitating effective product recommendations, cross selling strategies, and inventory management. Two widely used algorithms for association rule mining in
+ this context are FP-Growth and Apriori. The FP-Growth algorithm employs a tree-based approach to efficiently generate frequent itemsets, minimizing computational complexity. In contrast, the Apriori algorithm,
+ though conceptually straightforward, requires multiple passes through the data, potentially increasing computational overhead. This research investigates the efficiency and performance of the Apriori and FP
+ -Growth algorithms in market basket analysis using a UK-based online retail dataset sourced from the UCI Machine Learning Repository. We compare the algorithms' results and assess their ability to generate
+ association rules while evaluating their computational requirements. The findings provide insights into the strengths and limitations of each approach, offering guidance for choosing the appropriate algorithm
+ for specific market basket analysis needs.  
 ![Market Basket Analysis](https://3.bp.blogspot.com/-i_KRZLp_mc4/VhVaP68aeuI/AAAAAAAAAVc/JyJEBUykrjM/s1600/cover%2Bphoto%2B-%2Bexample.jpg)
 ### **Tech Stack for Project:**
 
-- **Cloud Services:** AWS or Heroku or Azure
-- **Machine Learning:** FP growth , Apriori , MLxtend and necessary libraries
+- **Machine Learning: FP growth , Apriori , MLxtend and necessary libraries**
 - **Version Control: GitHub**
-- **Project Management: Notion , Whimsical**
+- **Project Management: Notion**
+- **Deployment: Streamlit**
 
   ### Trends:
  - **Personalization:**
