@@ -7,7 +7,7 @@ warnings.filterwarnings('ignore', category=DeprecationWarning, module='openpyxl'
 
 def run():
     st.title("Model Page")
-    
+
 st.title("Model")
 @st.cache_data
 def load_data(pickle_file):
@@ -18,7 +18,7 @@ data= load_data('data.pickle')
 
 
 # Choose minimum support
-min_support = st.slider('Choose minimum support', 0.02, 0.1, 0.04)
+min_support = st.slider('Choose minimum support', 0.02, 0.1, 0.03)
 
 st.header('Apriori Algorithm')
 
