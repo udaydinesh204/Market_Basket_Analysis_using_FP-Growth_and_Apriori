@@ -15,6 +15,7 @@ def load_data(pickle_file):
         data = pickle.load(file)
     return data
 data= load_data('data.pickle')
+data = data.astype(bool)
 
 
 # Choose minimum support
