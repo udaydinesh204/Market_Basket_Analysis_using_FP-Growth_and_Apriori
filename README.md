@@ -1,4 +1,4 @@
-# Market Basket Analysis on Grocery Store
+# Market Basket Analysis using FP-Growth and Apriori
 
 ### Abstract:
  Market basket analysis is a critical tool in retail and e-commerce as it reveals patterns in customer behavior and purchasing trends. By examining transactional data, market basket analysis uncovers
