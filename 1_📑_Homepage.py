@@ -1,5 +1,21 @@
 import streamlit as st 
+# Import the pages
+from pages import model
+from pages import dashboard
 
+st.sidebar.title("Navigation")
+page = st.sidebar.radio("Go to", ["Home", "Model", "Dashboard"])
+
+# Define the homepage content
+if page == "Home":
+    st.title("Welcome to the Market Basket Analysis App")
+    st.write("This is the homepage of the Market Basket Analysis app.")
+elif page == "Model":
+    # Call the function from model.py
+    model.run()
+elif page == "Dashboard":
+    # Call the function from dashboard.py
+    dashboard.run()
 
 
 st.set_page_config(
@@ -84,4 +100,3 @@ Alibaba - Providing personalized product recommendations.
 
                 )
     
-   

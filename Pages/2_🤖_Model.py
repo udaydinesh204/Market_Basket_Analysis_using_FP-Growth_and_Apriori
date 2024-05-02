@@ -5,6 +5,9 @@ from mlxtend.frequent_patterns import apriori, association_rules, fpgrowth
 import warnings
 warnings.filterwarnings('ignore', category=DeprecationWarning, module='openpyxl')
 
+def run():
+    st.title("Model Page")
+    
 st.title("Model")
 @st.cache_data
 def load_data(pickle_file):

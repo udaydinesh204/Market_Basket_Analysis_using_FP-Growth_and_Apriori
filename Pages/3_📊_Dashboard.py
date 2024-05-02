@@ -1,12 +1,11 @@
 import streamlit as st 
 import streamlit as st
-import matplotlib.pyplot as plt
-import pandas as pd
-import seaborn as sns  # for data visualization
 import plotly.graph_objects as go
 import plotly.express as px
 
-
+def run():
+    st.title("Dashboard Page")
+    
 rules = st.session_state.get('rules')
 
 st.title("Dashboard")
