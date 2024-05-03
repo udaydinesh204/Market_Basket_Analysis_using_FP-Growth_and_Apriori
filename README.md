@@ -10,13 +10,12 @@
  for specific market basket analysis needs.  
 ![Market Basket Analysis](https://3.bp.blogspot.com/-i_KRZLp_mc4/VhVaP68aeuI/AAAAAAAAAVc/JyJEBUykrjM/s1600/cover%2Bphoto%2B-%2Bexample.jpg)
 ### **Tech Stack for Project:**
-
 - **Machine Learning: FP growth , Apriori , MLxtend and necessary libraries**
 - **Version Control: GitHub**
 - **Project Management: Notion**
 - **Deployment: Streamlit**
 
-  ### Trends:
+### Trends:
  - **Personalization:**
  - Trend: Growing demand for personalized shopping experiences.
  - Impact: Market basket analysis enables personalized recommendations, aligning with the trend.
@@ -38,7 +37,7 @@ Impact: By strategically leveraging market basket analysis results, the project 
 Impact: The project promotes a data-driven approach, enabling the online grocery store to make informed decisions and stay competitive in the market.
 
 ### To know more about
-https://www.javatpoint.com/market-basket-analysis-in-data-mining#:~:text=Examples%20of%20Market%20Basket%20Analysis&text=Retail%3A%20The%20most%20well%2Dknown,case%20study%20is%20Amazon.com
+[![To know more](https://img.shields.io/badge/To_know_more-blue?style=for-the-badge)](https://www.javatpoint.com/data-mining-tutoria)
 
 ###  **Applications:**
 - **Amazon** - Personalised product recommendations based on purchase history.
