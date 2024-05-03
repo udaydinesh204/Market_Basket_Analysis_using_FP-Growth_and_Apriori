@@ -1,5 +1,7 @@
 # Market Basket Analysis using FP-Growth and Apriori
 
+[Click here to visit the Market Basket Analysis project](https://market-basket-analysis-uk.streamlit.app/)
+
 ### Abstract:
  Market basket analysis is a critical tool in retail and e-commerce as it reveals patterns in customer behavior and purchasing trends. By examining transactional data, market basket analysis uncovers
  relationships between items commonly bought together, facilitating effective product recommendations, cross selling strategies, and inventory management. Two widely used algorithms for association rule mining in
