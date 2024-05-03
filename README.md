@@ -2,6 +2,10 @@
 
 [Click here to visit the Market Basket Analysis project](https://market-basket-analysis-uk.streamlit.app/)
 
+<a href="https://market-basket-analysis-uk.streamlit.app/" style="display: inline-block; padding: 10px 20px; background-color: #007BFF; color: white; text-decoration: none; border-radius: 5px; font-weight: bold; font-size: 16px; text-align: center; transition: background-color 0.3s;">
+    Visit the Market Basket Analysis Project
+</a>
+
 ### Abstract:
  Market basket analysis is a critical tool in retail and e-commerce as it reveals patterns in customer behavior and purchasing trends. By examining transactional data, market basket analysis uncovers
  relationships between items commonly bought together, facilitating effective product recommendations, cross selling strategies, and inventory management. Two widely used algorithms for association rule mining in
