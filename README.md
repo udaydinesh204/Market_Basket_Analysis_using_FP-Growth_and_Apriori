@@ -2,9 +2,18 @@
 
 [Click here to visit the Market Basket Analysis project](https://market-basket-analysis-uk.streamlit.app/)
 
-[!<a href="https://market-basket-analysis-uk.streamlit.app/" style="display: inline-block; padding: 10px 20px; background-color: #007BFF; color: white; text-decoration: none; border-radius: 5px; font-weight: bold; font-size: 16px; text-align: center; transition: background-color 0.3s;">
+<a href="https://market-basket-analysis-uk.streamlit.app/" style="
+    display: inline-block; 
+    padding: 10px 20px; 
+    background-color: #007BFF; /* Blue color */
+    color: white; 
+    text-decoration: none; 
+    border-radius: 8px; 
+    font-size: 16px; 
+    font-weight: bold;
+    text-align: center;">
     Visit the Market Basket Analysis Project
-</a>]
+</a>
 
 ### Abstract:
  Market basket analysis is a critical tool in retail and e-commerce as it reveals patterns in customer behavior and purchasing trends. By examining transactional data, market basket analysis uncovers
