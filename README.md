@@ -36,8 +36,7 @@ Impact: By strategically leveraging market basket analysis results, the project 
 - **Data-Driven Decision Making:**  
 Impact: The project promotes a data-driven approach, enabling the online grocery store to make informed decisions and stay competitive in the market.
 
-### To know more about
-[![To know more](https://img.shields.io/badge/To_know_more-blue?style=for-the-badge)](https://www.javatpoint.com/data-mining-tutoria)
+[![To know more](https://img.shields.io/badge/To_know_more-blue?style=for-the-badge)](https://www.javatpoint.com/market-basket-analysis-in-data-mining#:~:text=Examples%20of%20Market%20Basket%20Analysis&text=Retail%3A%20The%20most%20well%2Dknown,case%20study%20is%20Amazon.com)
 
 ###  **Applications:**
 - **Amazon** - Personalised product recommendations based on purchase history.
